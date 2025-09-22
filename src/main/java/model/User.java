@@ -13,5 +13,5 @@ public class User {
 
     private double balance;
     private Boolean isFlagged; //Is user suspicious
-    private int riskPoints;
+    private int userRiskPoints;
 }

@@ -14,5 +14,5 @@ public class Transaction {
     private double amount;
     private String timestamp;
 
-    private int riskPoints;
+    private int trRiskPoints;
 }
