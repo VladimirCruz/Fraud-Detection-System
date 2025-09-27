@@ -7,9 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class FraudDetectionSystemApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(FraudDetectionSystemApplication.class, args);
+        SpringApplication.run(FraudDetectionSystemApplication.class, args);
+        System.out.println("Hello");
 	}
-    System.out.println("Hello");
-
-
 }
