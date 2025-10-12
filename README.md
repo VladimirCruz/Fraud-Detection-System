@@ -1,4 +1,9 @@
-A full stack modular web app for detecting possible fraudulent transactions using ML to analyze a simulated dataset.
+<h1>Full Stack Fraud Detection Application</h1>
+The purpose of this project is to simulate a fictional product/system banks may want to have that identifies suspicious transactions.
+
+Contains:
+PyTorch ML model, trained to classify fraudulent transactions.
+Java backend with Spring Boot and Thymeleaf incorporated.
 
 Synthetic Financial Datasets For Fraud Detection - https://www.kaggle.com/datasets/ealaxi/paysim1
 
