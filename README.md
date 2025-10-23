@@ -15,9 +15,9 @@ Below are the ML model results.
 
 **Performance Summary:**
 - **Accuracy:** 100%  
-- **Precision (Fraudulent Transactions):** 98%  
-- **Recall (Fraudulent Transactions):** 79%  
-- **F1-Score (Fraudulent Transactions):** 87% 
+- **Precision:** 98%  
+- **Recall:** 79%  
+- **F1-Score:** 87% 
 
 <h1>Scrum Project Management Methodology</h1>
 
